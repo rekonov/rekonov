@@ -18,9 +18,10 @@ I build systems end-to-end: backend design, APIs, database layer, real-time feat
 
 ## Open To
 
-- Part-time roles
-- Freelance contracts
-- Backend Node.js, Full-Stack Next.js, AI Integration tasks
+- Part-time and freelance roles
+- Full-Stack development (React / Next.js + Node.js backend)
+- AI integration and automation tasks (LLM-powered product features)
+- Security-focused engineering work (secure APIs, auth hardening, threat-aware architecture)
 
 ## Contact
 
