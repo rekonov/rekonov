@@ -14,7 +14,7 @@ I build systems end-to-end: backend design, APIs, database layer, real-time feat
 - Databases: PostgreSQL, MySQL, MongoDB
 - Security: secure coding, threat modeling, attack surface reduction
 - AI: LLM API integration, workflow automation, assistant logic
-- Infrastructure: Docker, Linux, Git
+- Infrastructure: Docker, Linux, Git, containerized deployment
 
 ## Open To
 
