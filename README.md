@@ -1,5 +1,3 @@
-# Bogdan Konovalov
-
 [![Backend / Full-Stack](https://img.shields.io/badge/Backend%20%2F%20Full--Stack-111111?style=for-the-badge&labelColor=000000)](#)
 [![Security Focused](https://img.shields.io/badge/Security%20Focused-111111?style=for-the-badge&labelColor=000000)](#)
 [![AI Integration](https://img.shields.io/badge/AI%20Integration-111111?style=for-the-badge&labelColor=000000)](#)
