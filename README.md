@@ -47,19 +47,3 @@ Part-time roles and freelance collaboration:
 ## Contact
 
 - Telegram: [@reekonov](https://t.me/reekonov)
-
-## Profile Variants
-
-This repository includes job-targeted profile versions:
-- `README.backend-nodejs.md`
-- `README.fullstack-nextjs.md`
-- `README.ai-engineer.md`
-
-To switch quickly:
-
-```powershell
-.\switch-profile.ps1 -Role backend
-.\switch-profile.ps1 -Role fullstack
-.\switch-profile.ps1 -Role ai
-.\switch-profile.ps1 -Role premium
-```
