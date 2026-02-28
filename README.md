@@ -21,12 +21,6 @@ I build systems end-to-end: backend design, APIs, database layer, real-time feat
 - AI integration and automation tasks (LLM-powered product features)
 - Security-focused engineering work (secure APIs, auth hardening, threat-aware architecture)
 
-## Selected Projects
-
-- [ARQON_MVP_PROJECT](https://github.com/rekonov/ARQON_MVP_PROJECT) - local-first Windows security agent (threat detection, policy control, incident tooling)
-- [MASK](https://github.com/rekonov/MASK) - privacy-oriented identity generator with temporary mailbox integration
-- [LUME](https://github.com/rekonov/LUME) - secure messaging platform (active private development)
-
 ## Contact
 
 - Telegram: [@reekonov](https://t.me/reekonov)
